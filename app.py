@@ -18,7 +18,7 @@ with col1:
 with col2:
     st.subheader("🏭 PLC 编程专家")
     st.write("支持西门子/三菱代码生成、语法自检、文档分析。")
-    st.link_button("进入 PLC 专家", "https://plc-expert-lyh.streamlit.app", use_container_width=True)
+    st.link_button("进入 PLC 专家", "https://plc-expert-yh.streamlit.app", use_container_width=True)
 
 st.divider()
 
